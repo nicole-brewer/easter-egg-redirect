@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sgci | Catch Me Coding</title>
+    <link>https://www.nicole-brewer.com/blog/tag/sgci/</link>
+      <atom:link href="https://www.nicole-brewer.com/blog/tag/sgci/index.xml" rel="self" type="application/rss+xml" />
+    <description>sgci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicole Brewer 2020</copyright><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.nicole-brewer.com/img/scc18.jpg</url>
+      <title>sgci</title>
+      <link>https://www.nicole-brewer.com/blog/tag/sgci/</link>
+    </image>
+    
+    <item>
+      <title>SGCI Hack@PEARC19</title>
+      <link>https://www.nicole-brewer.com/post/sgci-hack-pearc19/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.nicole-brewer.com/post/sgci-hack-pearc19/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;a href=&#34;https://sciencegateways.org/web/wd/hackathon-2019&#34; class=&#34;uri&#34;&gt;https://sciencegateways.org/web/wd/hackathon-2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

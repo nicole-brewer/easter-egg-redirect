@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trinity Overmyer | Catch Me Coding</title>
+    <link>https://www.nicole-brewer.com/authors/trinity-overmyer/</link>
+      <atom:link href="https://www.nicole-brewer.com/authors/trinity-overmyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trinity Overmyer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicole Brewer 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.nicole-brewer.com/img/scc18.jpg</url>
+      <title>Trinity Overmyer</title>
+      <link>https://www.nicole-brewer.com/authors/trinity-overmyer/</link>
+    </image>
+    
+    <item>
+      <title>Student Cluster Competition 2018, Team Ada Six of Purdue University</title>
+      <link>https://www.nicole-brewer.com/publication/journal-article/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.nicole-brewer.com/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
