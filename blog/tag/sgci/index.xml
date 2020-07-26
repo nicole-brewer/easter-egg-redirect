@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sgci | Catch Me Coding</title>
-    <link>https://www.nicole-brewer.com/blog/tag/sgci/</link>
-      <atom:link href="https://www.nicole-brewer.com/blog/tag/sgci/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nicole-brewer.github.io/blog/tag/sgci/</link>
+      <atom:link href="https://nicole-brewer.github.io/blog/tag/sgci/index.xml" rel="self" type="application/rss+xml" />
     <description>sgci</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicole Brewer 2020</copyright><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.nicole-brewer.com/img/scc18.jpg</url>
+      <url>https://nicole-brewer.github.io/img/scc18.jpg</url>
       <title>sgci</title>
-      <link>https://www.nicole-brewer.com/blog/tag/sgci/</link>
+      <link>https://nicole-brewer.github.io/blog/tag/sgci/</link>
     </image>
     
     <item>
       <title>SGCI Hack@PEARC19</title>
-      <link>https://www.nicole-brewer.com/post/sgci-hack-pearc19/</link>
+      <link>https://nicole-brewer.github.io/blog/sgci-hack-pearc19/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.nicole-brewer.com/post/sgci-hack-pearc19/</guid>
+      <guid>https://nicole-brewer.github.io/blog/sgci-hack-pearc19/</guid>
       <description>
 
 

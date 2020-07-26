@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reproducibility | Catch Me Coding</title>
-    <link>https://www.nicole-brewer.com/blog/tag/reproducibility/</link>
-      <atom:link href="https://www.nicole-brewer.com/blog/tag/reproducibility/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nicole-brewer.github.io/blog/tag/reproducibility/</link>
+      <atom:link href="https://nicole-brewer.github.io/blog/tag/reproducibility/index.xml" rel="self" type="application/rss+xml" />
     <description>Reproducibility</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicole Brewer 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.nicole-brewer.com/img/scc18.jpg</url>
+      <url>https://nicole-brewer.github.io/img/scc18.jpg</url>
       <title>Reproducibility</title>
-      <link>https://www.nicole-brewer.com/blog/tag/reproducibility/</link>
+      <link>https://nicole-brewer.github.io/blog/tag/reproducibility/</link>
     </image>
     
     <item>
       <title>Student Cluster Competition 2018, Team Ada Six of Purdue University</title>
-      <link>https://www.nicole-brewer.com/publication/journal-article/</link>
+      <link>https://nicole-brewer.github.io/publication/scc18/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.nicole-brewer.com/publication/journal-article/</guid>
+      <guid>https://nicole-brewer.github.io/publication/scc18/</guid>
       <description></description>
     </item>
     

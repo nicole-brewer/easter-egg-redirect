@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Catch Me Coding</title>
-    <link>https://www.nicole-brewer.com/tags/</link>
-      <atom:link href="https://www.nicole-brewer.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nicole-brewer.github.io/tags/</link>
+      <atom:link href="https://nicole-brewer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicole Brewer 2020</copyright><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicole Brewer 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.nicole-brewer.com/img/scc18.jpg</url>
+      <url>https://nicole-brewer.github.io/img/scc18.jpg</url>
       <title>Tags</title>
-      <link>https://www.nicole-brewer.com/tags/</link>
+      <link>https://nicole-brewer.github.io/tags/</link>
     </image>
     
   </channel>

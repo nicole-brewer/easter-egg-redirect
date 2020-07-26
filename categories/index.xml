@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Catch Me Coding</title>
-    <link>https://www.nicole-brewer.com/categories/</link>
-      <atom:link href="https://www.nicole-brewer.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nicole-brewer.github.io/categories/</link>
+      <atom:link href="https://nicole-brewer.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicole Brewer 2020</copyright><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Nicole Brewer 2020</copyright>
     <image>
-      <url>https://www.nicole-brewer.com/img/scc18.jpg</url>
+      <url>https://nicole-brewer.github.io/img/scc18.jpg</url>
       <title>Categories</title>
-      <link>https://www.nicole-brewer.com/categories/</link>
+      <link>https://nicole-brewer.github.io/categories/</link>
     </image>
     
   </channel>
